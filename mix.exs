@@ -6,7 +6,7 @@ defmodule XDR.Mixfile do
 
   @deps [
     {:math, "~> 0.3.0"},
-    {:ok,   "~> 1.9"},
+    {:ok,   "1.9"},
   ]
 
   @dev_deps [
